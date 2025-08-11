@@ -1,0 +1,18 @@
+h1 {
+font-size: large;
+}
+h2 {
+font-size: medium;
+}
+h3 {
+font-size: small;    
+}
+p.bold {
+font-weight: bold;
+}
+p.bold {
+font-weight: bold;   
+}
+p.italic {
+font-style: italic;    
+}
